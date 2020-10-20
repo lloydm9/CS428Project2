@@ -41,7 +41,7 @@ Flatscreen TV: https://assetstore.unity.com/packages/3d/props/electronics/flatsc
 Shelf: https://assetstore.unity.com/packages/3d/props/interior/shelf-646
 
 ### GitHub
-Link:https://github.com/lloydm9/CS428Project2
+Link: https://github.com/lloydm9/CS428Project2
 
 ### Discussion
 
