@@ -21,12 +21,19 @@ I decided to model my Project 2 after a mock living room similar to my own. To a
 All objects in the project are not my own work, and the links to their pages can be found here. The only thing of my creation in this project is the ambient noise which I recorded on my phone. 
 
 Lamp Pack: https://assetstore.unity.com/packages/3d/props/interior/lamps-pack-19102
+
 Foldable Table and Chair: https://assetstore.unity.com/packages/3d/props/furniture/folding-table-and-chair-pbr-111726
+
 Angular Table: https://assetstore.unity.com/packages/3d/props/furniture/table-angular-164855
+
 Laptop: https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030
+
 Sofas: https://assetstore.unity.com/packages/3d/props/furniture/modern-minimalist-sofa-136398
+
 TV Stand: https://assetstore.unity.com/packages/3d/props/electronics/tv-furniture-60122
+
 Flatscreen TV: https://assetstore.unity.com/packages/3d/props/electronics/flatscreen-tv-9721
+
 Shelf: https://assetstore.unity.com/packages/3d/props/interior/shelf-646
 
 ### GitHub
