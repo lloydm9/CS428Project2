@@ -12,9 +12,13 @@ I decided to model my Project 2 after a mock living room similar to my own. To a
 4.	Either print or download the Vuforia Mars Markers and ground plane
 5.	Download the project from https://github.com/lloydm9/CS428Project2
 6.	Use the markers to adjust the widgets if you wish, and that’s basically it
-7.	The basic playset is the astronaut
+    
+    The basic playset is the astronaut
+
     The life size playset is the Vuforia Ground Plane
+    
     The drone marker is the physics playset
+    
 
 ### External Assets
 
