@@ -2,7 +2,7 @@
 
 ### Intro
 
-I decided to model my Project 2 after a mock room similar to my own. I had moved recently, and because of that I had to arrange my belongings in my new room. To achieve this I have used the assets listed below to bring the room to life. The room in the playset isn't an exact replica of mine per se, as it's for more of a living room environment, but the premise is all the same. In addition to the playsets featuring my room, I also incorporated a physics playset with solid objects for the user to test the solidity of the objects.
+I decided to model my Project 2 after a mock living room similar to my own. To achieve this I have used the assets listed below to bring the room to life. The room in the playset isn't an exact replica of mine per se, but the premise is all the same. In addition to the playsets featuring my room, I also incorporated a physics playset with solid objects for the user to test the solidity of the objects.
 
 ### Steps
 
