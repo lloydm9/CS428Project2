@@ -52,3 +52,6 @@ I feel like these kinds of playsets won’t be immediately popular in a few year
 ![](images/Image1.png)
 ![](images/Image2.png)
 ![](images/Image3.png)
+
+### Video 
+Link: https://youtu.be/0Yd29mceJ1c
